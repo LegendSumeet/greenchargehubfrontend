@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542302591162",
+    "project_id": "greenchargehub01",
+    "storage_bucket": "greenchargehub01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542302591162:android:d4051871d4bb41ccb38a83",
+        "android_client_info": {
+          "package_name": "com.example.greenchargehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPuzmO_WLC4uK9IkAqCAKXf-9nJbMhts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
